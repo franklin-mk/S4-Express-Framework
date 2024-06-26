@@ -1,0 +1,19 @@
+{
+  "name": "01-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklin Muriithi",
+  "license": "ISC",
+  "description": "Aspects of Node.JS",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
